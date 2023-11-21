@@ -1,0 +1,10 @@
+﻿2023-11-12T18:58:59.1423813+03:00;Thread#1;Info;Reading test run result from Json file "C:\Users\emely\AppData\Local\Temp\2a8788a9-5af5-43de-8a91-daa8e994607b".
+2023-11-12T18:58:59.1473837+03:00;Thread#1;Info;Successfully read test run result from Json file "C:\Users\emely\AppData\Local\Temp\2a8788a9-5af5-43de-8a91-daa8e994607b"
+2023-11-12T18:58:59.1473837+03:00;Thread#1;Info;Deserializing test run result
+2023-11-12T18:58:59.4864631+03:00;Thread#1;Info;Successfully deserialized test run result
+2023-11-12T18:58:59.4864631+03:00;Thread#1;Info;Loading test run result
+2023-11-12T18:58:59.4994623+03:00;Thread#1;Info;Successfully loaded test run result
+2023-11-12T18:58:59.5054788+03:00;Thread#1;Info;creating 1 report(s)
+2023-11-12T18:58:59.5054788+03:00;Thread#1;Info;generate Report using template ReportTemplate.cshtml
+2023-11-12T18:59:00.4053481+03:00;Thread#1;Info;Finished generating reports.
+========== End of log file ==========

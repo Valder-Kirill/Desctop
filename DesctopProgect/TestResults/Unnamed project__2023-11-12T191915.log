@@ -1,0 +1,214 @@
+﻿2023-11-12T19:19:15.0428566+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2023-11-12T19:19:15.0429559+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework net50 in x64 mode execution started
+2023-11-12T19:19:15.0429591+03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2023-11-12T19:19:15.0450903+03:00;VSTestExecutionThread;Info;Current UserName: 'emely', MachineName: 'DESKTOP-SB04HL8'
+2023-11-12T19:19:15.0726523+03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\DesctopProgect.dll
+2023-11-12T19:19:15.0728967+03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\emely\source\repos\DesctopProgect\TestResults" (default)
+2023-11-12T19:19:15.0729744+03:00;VSTestExecutionThread;Info;Profile: 
+2023-11-12T19:19:15.1460874+03:00;VSTestExecutionThread;Info;Log file path: C:\Users\emely\source\repos\DesctopProgect\TestResults\Unnamed project__2023-11-12T191915.log
+2023-11-12T19:19:15.1524108+03:00;Thread#13;Info;Checking activation
+2023-11-12T19:19:15.2610262+03:00;Thread#13;Info;Activated.
+2023-11-12T19:19:15.2612679+03:00;Thread#13;Info;Activation check completed
+2023-11-12T19:19:15.2613594+03:00;Thread#13;Info;Starting test run
+2023-11-12T19:19:15.3398286+03:00;Thread#13;Info;Discovering target: Default
+2023-11-12T19:19:15.3400133+03:00;Thread#13;Info;Discovering tests from assembly: C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\DesctopProgect.dll
+2023-11-12T19:19:15.4462557+03:00;Thread#13;Info;Discovered tests from assembly: C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\DesctopProgect.dll
+2023-11-12T19:19:15.4472164+03:00:Test Suite Dump
+2023-11-12T19:19:15.4485677+03:00:#0: Unnamed project/ - 
+2023-11-12T19:19:15.4485848+03:00:#1: Default - 
+2023-11-12T19:19:15.4485873+03:00:#2: DesctopProgect - 
+2023-11-12T19:19:15.4485888+03:00:#3: Main page feature - 
+2023-11-12T19:19:15.4493942+03:00:#4: Fill in the document - TestAssembly:DesctopProgect/Feature:Main+page+feature/Scenario:Fill+in+the+document
+2023-11-12T19:19:15.4494237+03:00:End: Test Suite Dump
+2023-11-12T19:19:15.4591706+03:00:Thread#0:Scheduler: get next test for thread 0
+2023-11-12T19:19:15.4601901+03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2023-11-12T19:19:15.4602234+03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2023-11-12T19:19:15.4621295+03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2023-11-12T19:19:15.4621425+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2023-11-12T19:19:15.4621445+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2023-11-12T19:19:15.4621477+03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2023-11-12T19:19:15.4625751+03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2023-11-12T19:19:15.4631871+03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2023-11-12T19:19:15.4644709+03:00:Thread #0: creating new test thread executor for DesctopProgect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2023-11-12T19:19:15.4659600+03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2023-11-12T19:19:15.4660911+03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2023-11-12T19:19:15.4733189+03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2023-11-12T19:19:15.4746744+03:00:starting Out Of Process Executor
+2023-11-12T19:19:15.4821164+03:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2023-11-12T19:19:15.4838179+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2023-11-12T19:19:15.4838373+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2023-11-12T19:19:15.4845625+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0'
+2023-11-12T19:19:15.4848171+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\Microsoft.VisualStudio.Validation.dll'
+2023-11-12T19:19:15.4849138+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\Microsoft.VisualStudio.Validation.exe'
+2023-11-12T19:19:15.4849371+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0'
+2023-11-12T19:19:15.4851142+03:00:TargetFramework: .NETCoreApp,Version=v5.0
+2023-11-12T19:19:15.4855749+03:00:Tfm: netcoreapp5.0
+2023-11-12T19:19:15.4855831+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2023-11-12T19:19:15.4855852+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Validation.dll'
+2023-11-12T19:19:15.4856523+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Validation.exe'
+2023-11-12T19:19:15.4856807+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2023-11-12T19:19:15.4902988+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.16'
+2023-11-12T19:19:15.4903109+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.16\Microsoft.VisualStudio.Validation.dll'
+2023-11-12T19:19:15.4903614+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.16\Microsoft.VisualStudio.Validation.exe'
+2023-11-12T19:19:15.4903817+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.16'
+2023-11-12T19:19:15.4904698+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.16'
+2023-11-12T19:19:15.4904718+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.16\Microsoft.VisualStudio.Validation.dll'
+2023-11-12T19:19:15.4904991+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.16\Microsoft.VisualStudio.Validation.exe'
+2023-11-12T19:19:15.4905184+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.16'
+2023-11-12T19:19:15.4905816+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.16'
+2023-11-12T19:19:15.4906460+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.16\Microsoft.VisualStudio.Validation.dll'
+2023-11-12T19:19:15.4906973+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.16\Microsoft.VisualStudio.Validation.exe'
+2023-11-12T19:19:15.4914056+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.16'
+2023-11-12T19:19:15.5002605+03:00:Starting callback TCP Rpc server
+2023-11-12T19:19:15.5272940+03:00:Asynchronously starting background TCP Rpc Server on port 32768
+2023-11-12T19:19:15.5273571+03:00:Started callback TCP Rpc server on port 32768
+2023-11-12T19:19:15.5273585+03:00:Starting logger TCP Rpc server
+2023-11-12T19:19:15.5321147+03:00:Asynchronously starting background TCP Rpc Server on port 32769
+2023-11-12T19:19:15.5321542+03:00:Started logger TCP Rpc server on port 32769
+2023-11-12T19:19:15.5940759+03:00;Thread#13;Info;Executor full path resolved: C:\Program Files\dotnet\dotnet.exe
+2023-11-12T19:19:15.5955596+03:00;Thread#13;Info;Starting SpecFlow+ Runner executor process with attached debugger...
+2023-11-12T19:19:15.6464249+03:00;Thread#13;Info;Successfully started SpecFlow+ Runner executor process
+2023-11-12T19:19:15.6500876+03:00:Out of Process Executor 31812 started
+2023-11-12T19:19:15.6501058+03:00:Waiting for endpoint
+2023-11-12T19:19:16.2187651+03:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=ru-RU, PublicKeyToken=b03f5f7f11d50a3a
+2023-11-12T19:19:16.2187842+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2023-11-12T19:19:16.2187883+03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2023-11-12T19:19:16.2187916+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0'
+2023-11-12T19:19:16.2187926+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\StreamJsonRpc.resources.dll'
+2023-11-12T19:19:16.2188205+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\StreamJsonRpc.resources.exe'
+2023-11-12T19:19:16.2188399+03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0'
+2023-11-12T19:19:16.2188419+03:00:TargetFramework: .NETCoreApp,Version=v5.0
+2023-11-12T19:19:16.2188594+03:00:Tfm: netcoreapp5.0
+2023-11-12T19:19:16.2188609+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2023-11-12T19:19:16.2188623+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\StreamJsonRpc.resources.dll'
+2023-11-12T19:19:16.2188928+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\StreamJsonRpc.resources.exe'
+2023-11-12T19:19:16.2189184+03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2023-11-12T19:19:16.2194310+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.16'
+2023-11-12T19:19:16.2194412+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.16\StreamJsonRpc.resources.dll'
+2023-11-12T19:19:16.2194898+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.16\StreamJsonRpc.resources.exe'
+2023-11-12T19:19:16.2195137+03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.16'
+2023-11-12T19:19:16.2195846+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.16'
+2023-11-12T19:19:16.2195876+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.16\StreamJsonRpc.resources.dll'
+2023-11-12T19:19:16.2196188+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.16\StreamJsonRpc.resources.exe'
+2023-11-12T19:19:16.2196437+03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.16'
+2023-11-12T19:19:16.2197168+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.16'
+2023-11-12T19:19:16.2197196+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.16\StreamJsonRpc.resources.dll'
+2023-11-12T19:19:16.2197445+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.16\StreamJsonRpc.resources.exe'
+2023-11-12T19:19:16.2197646+03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.16'
+2023-11-12T19:19:16.2203452+03:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=ru, PublicKeyToken=b03f5f7f11d50a3a
+2023-11-12T19:19:16.2208568+03:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2023-11-12T19:19:16.2208664+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2023-11-12T19:19:16.2208677+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2023-11-12T19:19:16.2208843+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0'
+2023-11-12T19:19:16.2208902+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\Microsoft.VisualStudio.Threading.dll'
+2023-11-12T19:19:16.2209140+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\Microsoft.VisualStudio.Threading.exe'
+2023-11-12T19:19:16.2209330+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0'
+2023-11-12T19:19:16.2209349+03:00:TargetFramework: .NETCoreApp,Version=v5.0
+2023-11-12T19:19:16.2209454+03:00:Tfm: netcoreapp5.0
+2023-11-12T19:19:16.2209480+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2023-11-12T19:19:16.2209523+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Threading.dll'
+2023-11-12T19:19:16.2209906+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Threading.exe'
+2023-11-12T19:19:16.2210150+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2023-11-12T19:19:16.2214604+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.16'
+2023-11-12T19:19:16.2214732+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.16\Microsoft.VisualStudio.Threading.dll'
+2023-11-12T19:19:16.2215141+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.16\Microsoft.VisualStudio.Threading.exe'
+2023-11-12T19:19:16.2215375+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.16'
+2023-11-12T19:19:16.2216165+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.16'
+2023-11-12T19:19:16.2216256+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.16\Microsoft.VisualStudio.Threading.dll'
+2023-11-12T19:19:16.2216618+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.16\Microsoft.VisualStudio.Threading.exe'
+2023-11-12T19:19:16.2216898+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.16'
+2023-11-12T19:19:16.2218248+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.16'
+2023-11-12T19:19:16.2218296+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.16\Microsoft.VisualStudio.Threading.dll'
+2023-11-12T19:19:16.2218607+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.16\Microsoft.VisualStudio.Threading.exe'
+2023-11-12T19:19:16.2218832+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.16'
+2023-11-12T19:19:16.4978921+03:00:Remote executor port received: 32770
+2023-11-12T19:19:16.4981087+03:00:Creating executor TCP client on port 32770
+2023-11-12T19:19:16.4983577+03:00:Created executor TCP client on port 32770
+2023-11-12T19:19:16.4983613+03:00:Connecting to remote executor TCP server
+2023-11-12T19:19:16.4992498+03:00:Connected remote executor TCP server
+2023-11-12T19:19:16.4995645+03:00:trying to connect to Out of Process Executor the 1 attempt
+2023-11-12T19:19:16.4995716+03:00:Connection to Out of Process Executor established in the 1 attempt
+2023-11-12T19:19:16.6281504+03:00:2023-11-12T19:19:16.6267226+03:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\DesctopProgect.dll on test thread #0
+2023-11-12T19:19:16.6350051+03:00:Endpoint 31812 started
+2023-11-12T19:19:16.6544011+03:00:2023-11-12T19:19:16.6498418+03:00:OutOfProcessTestAssemblyExecutor: running tests...
+2023-11-12T19:19:16.7429399+03:00:2023-11-12T19:19:16.7422938+03:00:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2023-11-12T19:19:16.7461664+03:00:2023-11-12T19:19:16.7455315+03:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2023-11-12T19:19:16.7519409+03:00:2023-11-12T19:19:16.7488539+03:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\emely\.nuget\packages\specflow\3.9.8\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2023-11-12T19:19:16.8788697+03:00:2023-11-12T19:19:16.8780564+03:00:Thread#0:T:-> Loading plugin C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\DesctopProgect.dll
+2023-11-12T19:19:16.8804578+03:00:2023-11-12T19:19:16.8799292+03:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-11-12T19:19:16.8852074+03:00:2023-11-12T19:19:16.8845096+03:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2023-11-12T19:19:16.8870400+03:00:2023-11-12T19:19:16.8862759+03:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\emely\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2023-11-12T19:19:16.9438605+03:00:2023-11-12T19:19:16.9431458+03:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-11-12T19:19:16.9447687+03:00:2023-11-12T19:19:16.9442684+03:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2023-11-12T19:19:16.9460888+03:00:2023-11-12T19:19:16.9455849+03:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\emely\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2023-11-12T19:19:16.9594847+03:00:2023-11-12T19:19:16.9587274+03:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in DesctopProgect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2023-11-12T19:19:16.9608425+03:00:2023-11-12T19:19:16.9602754+03:00:Thread#0:T:-> Loading plugin C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\AqualityTracking.SpecFlowPlugin.dll
+2023-11-12T19:19:16.9710542+03:00:2023-11-12T19:19:16.9705205+03:00:Thread#0:T:-> Loading plugin C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\LivingDoc.SpecFlowPlugin.dll
+2023-11-12T19:19:16.9801628+03:00:2023-11-12T19:19:16.9793234+03:00:Assembly resolving LivingDoc.Dtos, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+2023-11-12T19:19:16.9816270+03:00:2023-11-12T19:19:16.9810059+03:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2023-11-12T19:19:16.9829169+03:00:2023-11-12T19:19:16.9824114+03:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\emely\.nuget\packages\specflow.plus.livingdocplugin\3.9.57\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2023-11-12T19:19:16.9930291+03:00:2023-11-12T19:19:16.9923541+03:00:Thread#0:T:-> Loading plugin C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecRun.Runtime.SpecFlowPlugin.dll
+2023-11-12T19:19:17.0130458+03:00:2023-11-12T19:19:17.0122957+03:00:Thread#0:T:-> Using default config
+2023-11-12T19:19:17.0210344+03:00:2023-11-12T19:19:17.0203329+03:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2023-11-12T19:19:17.0221859+03:00:2023-11-12T19:19:17.0217074+03:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2023-11-12T19:19:17.0232022+03:00:2023-11-12T19:19:17.0227205+03:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\emely\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2023-11-12T19:19:17.0310431+03:00:2023-11-12T19:19:17.0304315+03:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2023-11-12T19:19:17.0318843+03:00:2023-11-12T19:19:17.0315224+03:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2023-11-12T19:19:17.0326735+03:00:2023-11-12T19:19:17.0323729+03:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\emely\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2023-11-12T19:19:17.0425181+03:00:2023-11-12T19:19:17.0419646+03:00:Assembly resolving Aquality.WinAppDriver, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null
+2023-11-12T19:19:17.0434701+03:00:2023-11-12T19:19:17.0429886+03:00:[AssemblyCache] Trying to resolve 'Aquality.WinAppDriver' from .deps.json file
+2023-11-12T19:19:17.0448323+03:00:2023-11-12T19:19:17.0443150+03:00:[AssemblyCache] Resolved 'Aquality.WinAppDriver' to 'C:\Users\emely\.nuget\packages\aquality.winappdriver\2.0.0\lib\netstandard2.0\Aquality.WinAppDriver.dll'
+2023-11-12T19:19:17.0527046+03:00:2023-11-12T19:19:17.0517133+03:00:Assembly resolving Aquality.Selenium.Core, Version=1.6.1.0, Culture=neutral, PublicKeyToken=null
+2023-11-12T19:19:17.0535698+03:00:2023-11-12T19:19:17.0532248+03:00:[AssemblyCache] Trying to resolve 'Aquality.Selenium.Core' from .deps.json file
+2023-11-12T19:19:17.0544546+03:00:2023-11-12T19:19:17.0541193+03:00:[AssemblyCache] Resolved 'Aquality.Selenium.Core' to 'C:\Users\emely\.nuget\packages\aquality.selenium.core\1.6.1\lib\netstandard2.0\Aquality.Selenium.Core.dll'
+2023-11-12T19:19:17.0700698+03:00:2023-11-12T19:19:17.0695629+03:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2023-11-12T19:19:17.0713421+03:00:2023-11-12T19:19:17.0706460+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2023-11-12T19:19:17.0727962+03:00:2023-11-12T19:19:17.0722487+03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\emely\.nuget\packages\microsoft.testplatform.objectmodel\17.0.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2023-11-12T19:19:17.1086424+03:00:2023-11-12T19:19:17.1080867+03:00:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2023-11-12T19:19:17.1096933+03:00:2023-11-12T19:19:17.1092987+03:00:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2023-11-12T19:19:17.1106337+03:00:2023-11-12T19:19:17.1103213+03:00:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\emely\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2023-11-12T19:19:17.2061080+03:00:Thread#0: Test #4/0 is started on thread #0
+2023-11-12T19:19:17.2192269+03:00:2023-11-12T19:19:17.2185211+03:00:Thread#0:B:Given app is open
+2023-11-12T19:19:17.2296309+03:00:2023-11-12T19:19:17.2290727+03:00:Assembly resolving Microsoft.Extensions.DependencyInjection.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-11-12T19:19:17.2306670+03:00:2023-11-12T19:19:17.2302943+03:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' from .deps.json file
+2023-11-12T19:19:17.2318404+03:00:2023-11-12T19:19:17.2313809+03:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyInjection.Abstractions' to 'C:\Users\emely\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\5.0.0\lib\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll'
+2023-11-12T19:19:17.2405782+03:00:2023-11-12T19:19:17.2400724+03:00:Assembly resolving Microsoft.Extensions.DependencyInjection, Version=5.0.0.1, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2023-11-12T19:19:17.2415940+03:00:2023-11-12T19:19:17.2411365+03:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyInjection' from .deps.json file
+2023-11-12T19:19:17.2427868+03:00:2023-11-12T19:19:17.2424104+03:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyInjection' to 'C:\Users\emely\.nuget\packages\microsoft.extensions.dependencyinjection\5.0.1\lib\net5.0\Microsoft.Extensions.DependencyInjection.dll'
+2023-11-12T19:19:17.2511545+03:00:2023-11-12T19:19:17.2506773+03:00:Assembly resolving Appium.Net, Version=4.3.1.0, Culture=neutral, PublicKeyToken=null
+2023-11-12T19:19:17.2521794+03:00:2023-11-12T19:19:17.2516487+03:00:[AssemblyCache] Trying to resolve 'Appium.Net' from .deps.json file
+2023-11-12T19:19:17.2532933+03:00:2023-11-12T19:19:17.2529401+03:00:[AssemblyCache] Resolved 'Appium.Net' to 'C:\Users\emely\.nuget\packages\appium.webdriver\4.3.1\lib\netstandard2.0\Appium.Net.dll'
+2023-11-12T19:19:17.2615138+03:00:2023-11-12T19:19:17.2608499+03:00:Assembly resolving WebDriver, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2023-11-12T19:19:17.2633419+03:00:2023-11-12T19:19:17.2621253+03:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2023-11-12T19:19:17.2643349+03:00:2023-11-12T19:19:17.2639816+03:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\emely\.nuget\packages\selenium.webdriver\3.141.0\lib\netstandard2.0\WebDriver.dll'
+2023-11-12T19:19:17.2769506+03:00:2023-11-12T19:19:17.2764008+03:00:Assembly resolving NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2023-11-12T19:19:17.2781608+03:00:2023-11-12T19:19:17.2776883+03:00:[AssemblyCache] Trying to resolve 'NLog' from .deps.json file
+2023-11-12T19:19:17.2790245+03:00:2023-11-12T19:19:17.2787446+03:00:[AssemblyCache] Resolved 'NLog' to 'C:\Users\emely\.nuget\packages\nlog\4.7.10\lib\netstandard2.0\NLog.dll'
+2023-11-12T19:19:17.4356357+03:00:2023-11-12T19:19:17.4349533+03:00:Thread#0:T:2023-11-12 19:19:17 INFO - Using driver service running on 'http://127.0.0.1:4723/'
+2023-11-12T19:19:17.4459119+03:00:2023-11-12T19:19:17.4451898+03:00:Thread#0:T:2023-11-12 19:19:17 INFO - Starting application 'C:\Users\emely\source\repos\DesctopProgect\TestResults\Resources\Applications\Day Maxi Calc.exe'
+2023-11-12T19:19:17.7396501+03:00:2023-11-12T19:19:17.7390557+03:00:Assembly resolving System.Net.Requests.resources, Version=5.0.0.0, Culture=ru-RU, PublicKeyToken=b03f5f7f11d50a3a
+2023-11-12T19:19:17.7404368+03:00:2023-11-12T19:19:17.7401366+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' from .deps.json file
+2023-11-12T19:19:17.7411930+03:00:2023-11-12T19:19:17.7408928+03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' from .deps.json
+2023-11-12T19:19:17.7428114+03:00:2023-11-12T19:19:17.7424726+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0'
+2023-11-12T19:19:17.7464946+03:00:2023-11-12T19:19:17.7459488+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\System.Net.Requests.resources.dll'
+2023-11-12T19:19:17.7473110+03:00:2023-11-12T19:19:17.7469855+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\System.Net.Requests.resources.exe'
+2023-11-12T19:19:17.7482056+03:00:2023-11-12T19:19:17.7478237+03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0'
+2023-11-12T19:19:17.7492294+03:00:2023-11-12T19:19:17.7488382+03:00:TargetFramework: .NETCoreApp,Version=v5.0
+2023-11-12T19:19:17.7503633+03:00:2023-11-12T19:19:17.7500351+03:00:Tfm: netcoreapp5.0
+2023-11-12T19:19:17.7510280+03:00:2023-11-12T19:19:17.7507183+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2023-11-12T19:19:17.7517086+03:00:2023-11-12T19:19:17.7513979+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\System.Net.Requests.resources.dll'
+2023-11-12T19:19:17.7526166+03:00:2023-11-12T19:19:17.7522223+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\System.Net.Requests.resources.exe'
+2023-11-12T19:19:17.7534186+03:00:2023-11-12T19:19:17.7531022+03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Users\emely\source\repos\DesctopProgect\DesctopProgect\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2023-11-12T19:19:17.7590004+03:00:2023-11-12T19:19:17.7583370+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.16'
+2023-11-12T19:19:17.7600545+03:00:2023-11-12T19:19:17.7596519+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.16\System.Net.Requests.resources.dll'
+2023-11-12T19:19:17.7613594+03:00:2023-11-12T19:19:17.7608425+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.16\System.Net.Requests.resources.exe'
+2023-11-12T19:19:17.7624957+03:00:2023-11-12T19:19:17.7620245+03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.16'
+2023-11-12T19:19:17.7634438+03:00:2023-11-12T19:19:17.7631207+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.16'
+2023-11-12T19:19:17.7641052+03:00:2023-11-12T19:19:17.7638039+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.16\System.Net.Requests.resources.dll'
+2023-11-12T19:19:17.7648919+03:00:2023-11-12T19:19:17.7645416+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.16\System.Net.Requests.resources.exe'
+2023-11-12T19:19:17.7657901+03:00:2023-11-12T19:19:17.7652999+03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.16'
+2023-11-12T19:19:17.7667680+03:00:2023-11-12T19:19:17.7664528+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.16'
+2023-11-12T19:19:17.7674596+03:00:2023-11-12T19:19:17.7671275+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.16\System.Net.Requests.resources.dll'
+2023-11-12T19:19:17.7681203+03:00:2023-11-12T19:19:17.7678450+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.16\System.Net.Requests.resources.exe'
+2023-11-12T19:19:17.7687835+03:00:2023-11-12T19:19:17.7685185+03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.16'
+2023-11-12T19:19:17.7698873+03:00:2023-11-12T19:19:17.7695747+03:00:Assembly resolving System.Net.Requests.resources, Version=5.0.0.0, Culture=ru, PublicKeyToken=b03f5f7f11d50a3a
